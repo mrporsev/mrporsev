@@ -4,8 +4,7 @@ My name is Porsev Aslan. I'm a tech enthusiast currently pursuing a degree in co
 
 ### Connect with me:
 
-<a href="www.linkedin.com/in/porsev-aslan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://www.linkedin.com/in/porsev-aslan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr>
 
