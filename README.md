@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Porsev Aslan. I'm a tech enthusiast currently pursuing a degree in computer engineering. 
-<hr></hr>
+
 
 ### Connect with me:
 
