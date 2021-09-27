@@ -1,11 +1,13 @@
 ### Hi there 👋
 My name is Porsev Aslan. I'm a tech enthusiast currently pursuing a degree in computer engineering. 
 
-
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/porsev-aslan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrporsev&count_private=true)
 <hr>
 
 <h2>Tools & Technologies</h2>
