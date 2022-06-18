@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Porsev Aslan. I'm a tech enthusiast currently pursuing a degree in computer engineering. 
+My name is Porsev Aslan. I'm a tech enthusiast currently pursuing a masters degree in Computer Science. 
 
 ### Connect with me:
 
