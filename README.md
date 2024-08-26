@@ -1,56 +1,52 @@
-### Hi there 👋
-My name is Porsev Aslan. I'm a tech enthusiast currently pursuing a masters degree in Computer Science. 
+Here's a revamped version of your profile README that gives off a more badass vibe and highlights your position as Founder & CTO at Compensara.io:
 
-### Connect with me:
+---
 
-<a href="https://www.linkedin.com/in/porsev-aslan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+### Welcome to My Digital Domain 👾
+I'm **Porsev Aslan**, Founder & CTO at [Compensara.io](https://www.compensara.io). Just finished my M.Sc in Computer Science at KTH! 🚀
 
+### 🚀 Current Mission
+At **Compensara.io**
 
+### 📡 Let's Connect
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrporsev&count_private=true)
-<hr>
+<a href="https://www.linkedin.com/in/porsev-aslan"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h2>Tools & Technologies</h2>
+### 🧠 My Stack
+From frontend to backend, here's the tech I dominate:
+
+#### **Core Languages & Frameworks**
 <p>
-   <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Thymeleaf%20-%23F7DF1E.svg?&style=for-the-badge&color=41B883" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Spring%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Django%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=5E8E98" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/C%20-%23F7DF1E.svg?&style=for-the-badge&color=2F495E" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Assembler%20-%23F7DF1E.svg?&style=for-the-badge&color=A4AD19" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/postgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
-   <br />
-   <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
-</p> 
+   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
+</p>
 
+#### **Databases & DevOps**
+<p>
+   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/SQL-%2300f.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+</p>
 
+### 🛠️ Notable Tools
+<p>
+   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/GCP-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+</p>
 
-<!--
-**mrporsev/mrporsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats & Highlights
+![Porsev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrporsev&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrporsev&layout=compact&theme=radical)
