@@ -1,7 +1,3 @@
-Here's a revamped version of your profile README that gives off a more badass vibe and highlights your position as Founder & CTO at Compensara.io:
-
----
-
 ### Welcome to My Digital Domain 👾
 I'm **Porsev Aslan**, Founder & CTO at [Compensara.io](https://www.compensara.io). Just finished my M.Sc in Computer Science at KTH! 🚀
 
