@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R1YW5kd2d4OHpwcnE4bHEwMWd0YWpsOGV1MDlzZ3NjZjRmbnppMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26CaLWA2dcqz6hS4U/giphy.webp" width="300" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J0aThxNTBibzZ5cGc3YTU5NnVhYjA0dzR0d3U0ZTRpc29hNmU0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.webp" width="300" />
 
 I'm **Porsev Aslan**, Founder & CTO at [Compensara.io](https://www.compensara.io). Just finished my M.Sc in Computer Science at KTH! 🚀
 
