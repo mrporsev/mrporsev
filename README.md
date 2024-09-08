@@ -45,5 +45,5 @@ From frontend to backend, here's the tech I dominate:
 </p>
 
 ### 📊 GitHub Stats & Highlights
-![Porsev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrporsev&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrporsev&layout=compact&theme=radical)
+![Porsev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrporsev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrporsev&layout=compact&theme=radical&include_all_commits=true)
